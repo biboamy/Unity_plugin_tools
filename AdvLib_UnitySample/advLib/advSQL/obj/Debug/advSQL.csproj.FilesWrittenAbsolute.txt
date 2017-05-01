@@ -1,0 +1,7 @@
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/bin/Debug/Mono.Data.Sqlite.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/bin/Debug/System.Data.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/bin/Debug/advSQL.dll.mdb
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/bin/Debug/advSQL.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/obj/Debug/advSQL.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/obj/Debug/advSQL.dll.mdb
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/advSQL/bin/Debug/UnityEngine.dll

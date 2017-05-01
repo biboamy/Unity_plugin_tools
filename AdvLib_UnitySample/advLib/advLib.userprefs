@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="advImage/imageControlBehavior.cs">
+    <Files>
+      <File FileName="advDownLoad/downloadBehavior.cs" Line="64" Column="71" />
+      <File FileName="advImage/imageControlBehavior.cs" Line="104" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.advSQL PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+/Users/mediaadv/Desktop/advLib/WebEncoding/bin/Debug/WebEncoding.dll.mdb
+/Users/mediaadv/Desktop/advLib/WebEncoding/bin/Debug/WebEncoding.dll
+/Users/mediaadv/Desktop/advLib/WebEncoding/obj/Debug/WebEncoding.dll
+/Users/mediaadv/Desktop/advLib/WebEncoding/obj/Debug/WebEncoding.dll.mdb
