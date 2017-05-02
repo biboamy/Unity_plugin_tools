@@ -1,0 +1,8 @@
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/bin/Debug/advImage.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/bin/Debug/advImage.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/bin/Debug/advImage.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/obj/Debug/advImage.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/obj/Debug/advImage.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/obj/Debug/advImage.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/bin/Debug/UnityEngine.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advImage/bin/Debug/UnityEngine.UI.dll

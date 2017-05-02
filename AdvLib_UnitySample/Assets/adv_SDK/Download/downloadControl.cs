@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
-using cqplayart.adv.download;
+using amy.download;
 using System;
 public class downloadControl : MonoBehaviour
 {

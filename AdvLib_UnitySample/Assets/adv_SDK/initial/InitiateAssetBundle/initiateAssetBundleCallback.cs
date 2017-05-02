@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using cqplayart.adv.initial;
+using amy.initial;
 using UnityEngine.UI;
 
 public class initiateAssetBundleCallback : assetbundleInitialCallback 

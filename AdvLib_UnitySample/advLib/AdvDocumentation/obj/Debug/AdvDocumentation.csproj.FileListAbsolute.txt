@@ -1,9 +1,0 @@
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\AdvDocumentation.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\AdvDocumentation.pdb
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\LitJson.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\Mono.Data.Sqlite.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\System.Data.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\bin\Debug\UnityEngine.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\obj\Debug\AdvDocumentation.csprojResolveAssemblyReference.cache
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\obj\Debug\AdvDocumentation.dll
-C:\Users\kyo\Desktop\advLib\AdvDocumentation\obj\Debug\AdvDocumentation.pdb

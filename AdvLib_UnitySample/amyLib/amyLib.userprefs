@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RWControl/RWControlInterface.cs">
+    <Files>
+      <File FileName="advJson/AdvJsonBehavior.cs" Line="14" Column="47" />
+      <File FileName="advJson/AdvJsonInterface.cs" Line="5" Column="14" />
+      <File FileName="advSQL/sqlInterface.cs" Line="5" Column="14" />
+      <File FileName="advSQL/sqlBehavior.cs" Line="6" Column="14" />
+      <File FileName="initiateAssetbundle/initiateAssetBundleBehavior.cs" Line="8" Column="14" />
+      <File FileName="initiateAssetbundle/initiateAssetBundleInterface.cs" Line="5" Column="14" />
+      <File FileName="initiateAudio/initiateAudioBehavior.cs" Line="6" Column="14" />
+      <File FileName="initiateAudio/initiateAudioInterface.cs" Line="5" Column="14" />
+      <File FileName="initiateImage/initiateImageBehavior.cs" Line="6" Column="14" />
+      <File FileName="initiateImage/initiateImageInterface.cs" Line="5" Column="14" />
+      <File FileName="RWControl/RWControlBehavior.cs" Line="5" Column="14" />
+      <File FileName="RWControl/RWControlInterface.cs" Line="3" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.amySQL PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+</Properties>

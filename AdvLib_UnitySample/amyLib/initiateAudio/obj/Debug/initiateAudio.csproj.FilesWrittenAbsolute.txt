@@ -1,0 +1,32 @@
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/bin/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/bin/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/obj/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/obj/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/bin/Debug/UnityEngine.Networking.dll
+/Users/mediaadv/Desktop/advLib 2/initiateAudio/bin/Debug/UnityEngine.dll
+/Users/mediaadv/Desktop/advLib/initiateAudio/bin/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib/initiateAudio/bin/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib/initiateAudio/obj/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib/initiateAudio/obj/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib/initiateAudio/bin/Debug/UnityEngine.Networking.dll
+/Users/mediaadv/Desktop/advLib/initiateAudio/bin/Debug/UnityEngine.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/bin/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/bin/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/obj/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/obj/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/bin/Debug/UnityEngine.Networking.dll
+/Users/mediaadv/Desktop/advLib_0420_kyo/advLib/initiateAudio/bin/Debug/UnityEngine.dll
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/obj/Debug/initiateAudio.dll
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/obj/Debug/initiateAudio.dll.mdb
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/UnityEngine.Networking.dll
+/Users/mediaadv/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/UnityEngine.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/initiateAudio.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/initiateAudio.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/initiateAudio.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/obj/Debug/initiateAudio.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/obj/Debug/initiateAudio.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/obj/Debug/initiateAudio.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/UnityEngine.Networking.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/initiateAudio/bin/Debug/UnityEngine.dll

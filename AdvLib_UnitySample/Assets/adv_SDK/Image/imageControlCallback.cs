@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using cqplayart.adv.image;
+using amy.image;
 
 public class imageControlCallback : MonoBehaviour, controlImageCallback 
 {

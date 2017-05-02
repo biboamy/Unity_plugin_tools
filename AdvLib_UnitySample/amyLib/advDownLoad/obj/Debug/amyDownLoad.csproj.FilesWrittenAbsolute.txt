@@ -1,0 +1,7 @@
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/bin/Debug/advDownLoad.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/bin/Debug/advDownLoad.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/bin/Debug/advDownLoad.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/obj/Debug/advDownLoad.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/obj/Debug/advDownLoad.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/obj/Debug/advDownLoad.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advDownLoad/bin/Debug/UnityEngine.dll

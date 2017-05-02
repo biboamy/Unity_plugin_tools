@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UI;
 using UnityEngine;
-using cqplayart.adv.sql;
+using amy.sql;
 using Mono.Data.Sqlite;
 using System;
 

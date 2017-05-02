@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UI;
 using UnityEngine;
-using cqplayart.adv.initial;
+using amy.initial;
 
 public class initiateAudioCallback : MonoBehaviour, audioInitiateCallback 
 {

@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 using Vuforia;
 
-namespace cqplayart.adv.initial
+namespace amy.initial
 {
 	public class initiateDatasetBehavior : MonoBehaviour, datasetInitiate
 	{

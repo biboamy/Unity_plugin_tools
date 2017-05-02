@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using cqplayart.adv.download;
+using amy.download;
 
 public class downloadcallback : MonoBehaviour, WebRequestCallback
 {

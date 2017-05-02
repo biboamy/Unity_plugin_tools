@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using cqplayart.adv.sql;
+using amy.sql;
 public class sqlcallback : MonoBehaviour, mySQLCallback
 {
 	public GameObject LogText;

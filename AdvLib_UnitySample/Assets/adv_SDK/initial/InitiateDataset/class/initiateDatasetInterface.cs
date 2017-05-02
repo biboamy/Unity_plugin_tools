@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace cqplayart.adv.initial
+namespace amy.initial
 {
 	public interface datasetInitiate
 	{

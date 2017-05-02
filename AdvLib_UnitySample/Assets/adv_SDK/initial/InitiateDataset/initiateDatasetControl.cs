@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using cqplayart.adv.initial;
+using amy.initial;
 
 public class initiateDatasetControl : MonoBehaviour
 {

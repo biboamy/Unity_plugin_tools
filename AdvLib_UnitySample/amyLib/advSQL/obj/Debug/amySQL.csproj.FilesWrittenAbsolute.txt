@@ -1,0 +1,9 @@
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/advSQL.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/advSQL.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/advSQL.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/obj/Debug/advSQL.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/obj/Debug/advSQL.dll.mdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/obj/Debug/advSQL.pdb
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/Mono.Data.Sqlite.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/System.Data.dll
+/Users/yunninghung/Desktop/advLib_0424/advLib/advSQL/bin/Debug/UnityEngine.dll
